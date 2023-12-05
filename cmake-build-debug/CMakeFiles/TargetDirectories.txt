@@ -1,0 +1,3 @@
+F:/ISEC/Disciplinas/1ºAno/2ºSemestre/Programação/Prog_AlexandreJoseLeonardoFerreira_2021138219/cmake-build-debug/CMakeFiles/TrabalhoPratico.dir
+F:/ISEC/Disciplinas/1ºAno/2ºSemestre/Programação/Prog_AlexandreJoseLeonardoFerreira_2021138219/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/ISEC/Disciplinas/1ºAno/2ºSemestre/Programação/Prog_AlexandreJoseLeonardoFerreira_2021138219/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,7 @@
+# ninja log v5
+58	1538	6782206160000000	CMakeFiles/TrabalhoPratico.dir/lista.c.obj	46472364bb880fd3
+103	1541	6782206160000000	CMakeFiles/TrabalhoPratico.dir/matdin.c.obj	d904fc1a7bdfc755
+51	1601	6782206160000000	CMakeFiles/TrabalhoPratico.dir/utils.c.obj	25634b43ff6f5fd6
+4	1888	6782206160000000	CMakeFiles/TrabalhoPratico.dir/main.c.obj	f8e64af6a69d8b1c
+45	1952	6782206160000000	CMakeFiles/TrabalhoPratico.dir/jogo.c.obj	28b19c9d135622ca
+1952	2931	6782206180000000	TrabalhoPratico.exe	fc2c1db7c31ea615
